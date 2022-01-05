@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MuCalculator:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MuCalculator_jar</output-path>
+    <root id="archive" name="MuCalculator.jar">
+      <element id="module-output" name="MuCalculator" />
+    </root>
+  </artifact>
+</component>
